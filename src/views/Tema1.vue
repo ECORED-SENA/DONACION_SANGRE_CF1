@@ -38,7 +38,7 @@
           img(src="@/assets/componentes/actividad.svg")
         .col-md.col-lg-6
           .h2 ¿Cómo está conformada la estructura de la Red Nacional de Bancos de Sangre y Servicios de Transfusión?
-          p.mb-4 A continuación haga clic en el botón descargar para visualizar la inforgrafia
+          p.mb-4 A continuación haga clic en el botón descargar para visualizar la infografía
           
           a.boton.boton--b(:href="obtenerLink('/downloads/infografia/infografia_01.pdf')" target="_blank" type="application/pdf")
             span Descargar
@@ -465,11 +465,11 @@
       .py-4.py-md-5(titulo="Direcciones territoriales")        
         p.mb-0 Monitorear de manera constante el comportamiento de demanda y abastecimiento de hemocomponentes en su área de influencia, a través del Sistema de información en Hemovigilancia Sihevi-INS©. Así mismo, identificar los bancos de sangre proveedores en cada una de las IPS que transfunden.
       .py-4.py-md-5(titulo="Bancos de Sangre y Servicios de Transfusión")        
-        p.mb-0 Mantener actualizada su información en Sihevi-INS© respecto a captación, transfusión, satisfacción a la demanda, proveedores de hemocomponentes, disponibilidad de sangre y demás variables que atañen a su gestión, ya que es la fuente oficial para monitorear la capacidad de respuesta desde el INS, como Coordinador Nacional de la Red.
-        
+        p.mb-4 Mantener actualizada su información en Sihevi-INS© respecto a captación, transfusión, satisfacción a la demanda, proveedores de hemocomponentes, disponibilidad de sangre y demás variables que atañen a su gestión, ya que es la fuente oficial para monitorear la capacidad de respuesta desde el INS, como Coordinador Nacional de la Red.
+        p.mb-0 También deben contar con un procedimiento para establecer los inventarios de hemocomponentes, de acuerdo con sus necesidades diarias, procurando además contar con un excedente en el suministro que logre atender las necesidades que se presenten durante tres (3) días, como mínimo. Este criterio requiere de una estricta labor por parte del grupo de colecta, en donde se encuentra incluido el grupo de promoción.   
 
-    p.mb-4 También deben contar con un procedimiento para establecer los inventarios de hemocomponentes, de acuerdo con sus necesidades diarias, procurando además contar con un excedente en el suministro que logre atender las necesidades que se presenten durante tres (3) días, como mínimo. Este criterio requiere de una estricta labor por parte del grupo de colecta, en donde se encuentra incluido el grupo de promoción.   
 
+    
     .row.justify-content-center.align-items-center.mb-5
       .col-auto 
         figure
