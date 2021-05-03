@@ -358,7 +358,7 @@
             figure
               img(src='@/assets/curso/images/pages/ilustraciones/ico_14.svg' alt="", style="width:250px; display:block; margin:auto 0;").img-float
           
-        .h3.text-center ¿Una persona que haya tenido hepatitis?
+        .h3.text-center ¿Una persona que haya tenido hepatitis puede ser donante de sangre?
         br
         p Respuesta: se presume que la actividad sexual inicia a los 12 años, si un donante potencial refiere haber tenido hepatitis antes de los 12 años, esta persona no tiene restricción para donar por este criterio, ya que seguramente a dicha edad no había iniciado su actividad sexual y, por lo tanto, lo más seguro es que haya tenido hepatitis A por contaminación de alimentos, por el contrario, si refiere haber tenido hepatitis después de los 12 años, dicho donante no se puede aceptar porque pudo haber sido una hepatitis A por contaminación de alimentos pero también pudo haber sido una hepatitis B por contacto sexual (INS, 2020):
 
