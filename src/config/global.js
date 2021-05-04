@@ -115,7 +115,7 @@ export default {
       },
       {
         nombre: 'Magda Juliana Rodríguez Rodríguez',
-        cargo: 'Experta',
+        cargo: 'Experta temática',
         centro: 'Red Nacional Bancos de Sangre y Servicio de Transfusión.',
       },
       {
