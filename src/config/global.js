@@ -299,27 +299,27 @@ export default {
     {
       texto:
         'Organización Panamericana de la salud (2002). Curso de gestión de calidad para servicios de sangre. OPS.',
-      tipo: 'Libro',
+      tipo: 'Guía',
       link:
-        '/downloads/complementario/OPS-Curso-Gestion-Calidad-Sangre-2002.pdf',
+        'downloads/complementario/complementario/OPS-Curso-Gestion-Calidad-Sangre-2002.pdf',
     },
     {
       texto:
         'Organización Panamericana de la Salud. (2005). Manual hagamos la diferencia. OPS.',
       tipo: 'Manual',
-      link: '/downloads/complementario/Hagamosdiferencia-spa.pdf',
+      link: 'downloads/complementario/Hagamosdiferencia-spa.pdf',
     },
     {
       texto:
         'Organización Mundial de la Salud. (2005). Propuesta para el establecimiento del Día Mundial del Donante de Sangre. OPS.',
       tipo: 'Orden',
-      link: '/downloads/complementario/WHA58_13-sp.pdf',
+      link: 'downloads/complementario/WHA58_13-sp.pdf',
     },
     {
       texto:
         'Organización Panamericana de la Salud. (2006). Guía metodológica para educadores comunitarios. OPS',
       tipo: 'Guía',
-      link: '/downloads/complementario/Dadores_de_vida.pdf',
+      link: 'downloads/complementario/Dadores_de_vida.pdf',
     },
   ],
 }
