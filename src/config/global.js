@@ -301,7 +301,7 @@ export default {
         'Organización Panamericana de la salud (2002). Curso de gestión de calidad para servicios de sangre. OPS.',
       tipo: 'Guía',
       link:
-        'downloads/complementario/complementario/OPS-Curso-Gestion-Calidad-Sangre-2002.pdf',
+        'downloads/complementario/OPS-Curso-Gestion-Calidad-Sangre-2002.pdf',
     },
     {
       texto:
