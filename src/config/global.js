@@ -298,35 +298,28 @@ export default {
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto:
         'Organización Panamericana de la salud (2002). Curso de gestión de calidad para servicios de sangre. OPS.',
       tipo: 'Libro',
       link:
-        'https://www.paho.org/hq/dmdocuments/2010/OPS-Curso-Gestion-Calidad-Sangre-2002.pdf',
+        '/downloads/complementario/OPS-Curso-Gestion-Calidad-Sangre-2002.pdf',
     },
     {
       texto:
         'Organización Panamericana de la Salud. (2005). Manual hagamos la diferencia. OPS.',
       tipo: 'Manual',
-      link:
-        'https://iris.paho.org/bitstream/handle/10665.2/31336/Hagamosdiferencia-spa.pdf?sequence=1&isAllowed=y',
+      link: '/downloads/complementario/Hagamosdiferencia-spa.pdf',
     },
     {
       texto:
         'Organización Mundial de la Salud. (2005). Propuesta para el establecimiento del Día Mundial del Donante de Sangre. OPS.',
       tipo: 'Orden',
-      link: 'https://www.who.int/bloodsafety/WHA58_13-sp.pdf',
+      link: '/downloads/complementario/WHA58_13-sp.pdf',
     },
     {
       texto:
         'Organización Panamericana de la Salud. (2006). Guía metodológica para educadores comunitarios. OPS',
       tipo: 'Guía',
-      link: 'https://www.paho.org/hq/dmdocuments/2009/Dadores_de_vida.pdf',
+      link: '/downloads/complementario/Dadores_de_vida.pdf',
     },
   ],
 }
