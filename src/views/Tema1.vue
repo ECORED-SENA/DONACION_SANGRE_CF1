@@ -336,34 +336,14 @@
         .col-auto
           img.number(src='@/assets/curso/images/pages/ilustraciones/ico_12.svg' alt="", style="width:150px; display:block; margin:auto 0;").img-float
 
-    .h5.mb-4 Lineamientos Selección de donantes de sangre
+    .h5.mb-5 Lineamientos Selección de donantes de sangre
 
-    p.mt-3 Los encargados de realizar la promoción de la donación de sangre, tienen la responsabilidad de <b> informar a los donantes sobre los requisitos que deben cumplir para hacer efectiva su donación,</b> esto previamente al diligenciamiento de la encuesta y entrevista. Por esta razón, deben conocer los criterios establecidos, además de su fundamentación, especialmente centrándose en aquellos aspectos que son de un mayor interés para la población, como por ejemplo: 
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/zw745Maj-dg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Lineamientos Selección de donantes de sangre  
 
-    .tarjeta--container.row.mb-5.mt-5
-      .col-md.tarjeta.tarjeta--roja.p-5
-        .row.justify-content-center.mb-4
-          .col-6
-            figure
-              img(src='@/assets/curso/images/pages/ilustraciones/ico_13.svg', alt='Texto que describa la imagen')
-          
-        .h3.text-center ¿Una persona que tenga tatuajes puede donar sangre? 
-        p Respuesta: sí puede ser donante de sangre, posterior a los 12 meses después de haberse realizado el tatuaje. 
-        br
-        p Debido a que el personal del banco de sangre desconoce las condiciones de asepsia en las que el tatuaje fue realizado, se debe esperar dicho tiempo, ya que si la persona fue infectada, al comienzo de la enfermedad los niveles de la infección no son los suficientes para que sean detectados por las pruebas infecciosas realizadas por los bancos de sangre, esto a lo que se le conoce como periodo de ventana inmunológica. 
-
-      .col-md.tarjeta.tarjeta--roja-1.p-5
-        .row.justify-content-center.mb-4
-          .col-6
-            figure
-              img(src='@/assets/curso/images/pages/ilustraciones/ico_14.svg' alt="", style="width:250px; display:block; margin:auto 0;").img-float
-          
-        .h3.text-center ¿Una persona que haya tenido hepatitis puede ser donante de sangre?
-        br
-        p Respuesta: se presume que la actividad sexual inicia a los 12 años, si un donante potencial refiere haber tenido hepatitis antes de los 12 años, esta persona no tiene restricción para donar por este criterio, ya que seguramente a dicha edad no había iniciado su actividad sexual y, por lo tanto, lo más seguro es que haya tenido hepatitis A por contaminación de alimentos, por el contrario, si refiere haber tenido hepatitis después de los 12 años, dicho donante no se puede aceptar porque pudo haber sido una hepatitis A por contaminación de alimentos pero también pudo haber sido una hepatitis B por contacto sexual (INS, 2020):
-
-      .cajon.cajon--gris.p-4.mb-5.mb-lg-0.mt-5
-        p.mb-0 En Colombia los criterios de selección de donantes <b> de sangre se encuentran unificados bajo un lineamiento emitido por el Instituto Nacional de Salud.</b>  
+    .hr--blank  
 
     .titulo-segundo
       #t_1_5.h4 1.5 Boletines técnicos    

@@ -45,7 +45,7 @@ export default {
             hash: 't_1_3',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: 'far fa-play-circle',
             numero: '1.4',
             titulo: 'Lineamientos',
             hash: 't_1_4',
