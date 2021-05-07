@@ -277,7 +277,7 @@ export default {
     {
       termino: 'Promoción de la donación de sangre',
       significado:
-        'acciones de información, sensibilización y educación sobre la donación de sangre y conductas de autocuidado ofrecidas por el personal de los bancos de sangre a la población en general, con el objetivo de generar cultura de donación y cuyo mensaje va enfocado a obtener sangre y hemocomponentes provenientes de personas que tienen un bajo riesgo de transmitir infecciones, además de contar con una provisión de sangre disponible para atender las demandas transfusionales de las diferentes instituciones hospitalarias; así mismo, pretende fortalecer la responsabilidad social en los ciudadanos y las acciones en salud pública, que conlleven a que el sistema transfusional sea eficaz y eficiente..',
+        'acciones de información, sensibilización y educación sobre la donación de sangre y conductas de autocuidado ofrecidas por el personal de los bancos de sangre a la población en general, con el objetivo de generar cultura de donación y cuyo mensaje va enfocado a obtener sangre y hemocomponentes provenientes de personas que tienen un bajo riesgo de transmitir infecciones, además de contar con una provisión de sangre disponible para atender las demandas transfusionales de las diferentes instituciones hospitalarias; así mismo, pretende fortalecer la responsabilidad social en los ciudadanos y las acciones en salud pública, que conlleven a que el sistema transfusional sea eficaz y eficiente.',
     },
     {
       termino: 'Donante voluntario',
@@ -285,7 +285,7 @@ export default {
         'persona que dona sangre o componentes por su propia voluntad y no recibe ningún pago, ya sea en forma de dinero en efectivo o en especie que podría ser considerado un sustituto del dinero. Esto incluiría el tiempo fuera del trabajo que no sea razonablemente necesario para la donación y el viaje. Pequeños suvenires, refrigerios y reembolsos de los gastos directos asociados al viaje/transportación son compatibles con este tipo de donación',
     },
     {
-      termino: 'Donante voluntario habitual, repetitiva / de repetición:',
+      termino: 'Donante voluntario habitual, repetitiva / de repetición',
       significado:
         'persona que dona sangre o componentes por lo menos 2 veces en los últimos 12 meses, por su propia voluntad y no recibe ningún pago, ya sea en forma de dinero en efectivo o en especie que podría ser considerado un sustituto del dinero.',
     },

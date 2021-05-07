@@ -38,7 +38,7 @@
           img(src="@/assets/componentes/actividad.svg")
         .col-md.col-lg-6
           .h2 ¿Cómo está conformada la estructura de la Red Nacional de Bancos de Sangre y Servicios de Transfusión?
-          p.mb-4 A continuación haga clic en el botón descargar para visualizar la inforgrafia
+          p.mb-4 A continuación haga clic en el botón descargar para visualizar la infografía.
           
           a.boton.boton--b(:href="obtenerLink('/downloads/infografia/infografia_01.pdf')" target="_blank" type="application/pdf")
             span Descargar
@@ -64,7 +64,7 @@
     .row.mt-4
       .col-lg
         p.mb-4 Así mismo, este Decreto define a un #[strong banco de sangre] como:
-        p.mb-4 #[strong "Todo establecimiento o dependencia con Licencia Sanitaria de Funcionamiento para adelantar actividades relacionadas con la obtención, procesamiento y almacenamiento de sangre humana destinada a la transfusión de la sangre total o en componentes separados, a procedimientos de aféresis y a otros procedimientos preventivos, terapéuticos y de investigación. Tiene como uno de sus propósitos asegurar la calidad de la sangre y sus derivados.]
+        p.mb-4 #[strong "Todo establecimiento o dependencia con Licencia Sanitaria de Funcionamiento para adelantar actividades relacionadas con la obtención, procesamiento y almacenamiento de sangre humana destinada a la transfusión de la sangre total o en componentes separados, a procedimientos de aféresis y a otros procedimientos preventivos, terapéuticos y de investigación. Tiene como uno de sus propósitos asegurar la calidad de la sangre y sus derivados".]
         p Ministerio de Salud, 2020, p. 1
       .col-lg-4
         figure
@@ -198,7 +198,7 @@
         hr 
 
     .cajon.cajon--gris.p-4.mb-4
-      p Allí también se ratifica que el <b> Instituto Nacional de Salud ejerce su rol como Coordinador de la Red Nacional de bancos de sangre </b> y que las Secretarias de Salud Departamentales (SSD) ejercerán la coordinación territorial de la misma.
+      p Allí también se ratifica que el <b> Instituto Nacional de Salud ejerce su rol como Coordinador de la Red Nacional de bancos de sangre </b> y que las Secretarías de Salud Departamentales (SSD) ejercerán la coordinación territorial de la misma.
     
     .row.justify-content-center.align-items-center.mt-3
       .col-auto 
@@ -238,7 +238,7 @@
       .col
         p Participar en el programa local de plan territorial de emergencias y desastres de la Secretaría de Salud Departamental (INS, 2020).
     hr
-    p.mb-5 Además, en la circular se manifiesta que un banco de sangre <b> no puede realizar jornadas de donación en un departamento diferente a su área de influencia.</b> Para poder ingresar, debe gestionar un permiso con la dirección territorial, es decir, con la secretaría de salud departamental, en el cual se debe comprometer con dicha institución, en que la sangre que sea colectada será distribuida en los servicios de transfusión de ese departamento. La secretaría de salud tiene la autonomía de decidir si le permite o no el ingreso,<b>si no lo permite, el banco de sangre no podría realizar dicha jornada de donación.</b> Lo anterior aplica si es para una jornada móvil o para un puesto fijo de colecta.
+    p.mb-5 Además, en la circular se manifiesta que un banco de sangre <b> no puede realizar jornadas de donación en un departamento diferente a su área de influencia.</b> Para poder ingresar, debe gestionar un permiso con la dirección territorial, es decir, con la secretaría de salud departamental, en el cual se debe comprometer con dicha institución, en que la sangre que sea colectada será distribuida en los servicios de transfusión de ese departamento. La secretaría de salud tiene la autonomía de decidir si le permite o no el ingreso, <b>si no lo permite, el banco de sangre no podría realizar dicha jornada de donación.</b> Lo anterior aplica si es para una jornada móvil o para un puesto fijo de colecta.
 
     .bloque-texto-a.p-4.p-md-5.mb-5
       .row.m-0.align-items-center.justify-content-between
@@ -360,7 +360,7 @@
         figure
           img(src='@/assets/curso/images/pages/ilustraciones/ico1.svg' alt="", style="width:60px; display:block; margin:auto 0;").img-float    
       .col
-        p La promoción se debe realizar con el propósito de captar donantes habituales: el donante habitual es aquella persona que dona dos veces en doce meses, aunque la frecuencia de donación es importante, no se puede dejar a un lado que esta persona, además, debe ser consciente de que sus conductas de vida no generan riesgo alguno en quien reciba la sangre donada. as as
+        p La promoción se debe realizar con el propósito de captar donantes habituales: el donante habitual es aquella persona que dona dos veces en doce meses, aunque la frecuencia de donación es importante, no se puede dejar a un lado que esta persona, además, debe ser consciente de que sus conductas de vida no generan riesgo alguno en quien reciba la sangre donada.
     hr
     .row.align-items-center.mt-3
       .col-auto
@@ -409,7 +409,7 @@
         figure
           img(src='@/assets/curso/images/pages/ilustraciones/ico_35.svg' alt="", style="width:60px; display:block; margin:auto 0;").img-float        
       .col
-        p Otorgar el carné de donante de sangre que tiene como único fin confirmar el grupo sanguíneo, recordación de la próxima donación y reconocimiento social..  
+        p Otorgar el carné de donante de sangre que tiene como único fin confirmar el grupo sanguíneo, recordación de la próxima donación y reconocimiento social.
     hr
     .row.align-items-center.mt-3
       .col-auto
@@ -438,7 +438,7 @@
     p.mt-3 Por lo tanto, establece las actividades que deben realizar los actores de la red para responder efectivamente ante una alerta ocasionada por riesgo de desastre, emergencia o desastre, entre las cuales están:
 
     TabsB.my-5
-      .py-4.py-md-5(titulo="Ministerio de Salud y Protección Socia") 
+      .py-4.py-md-5(titulo="Ministerio de Salud y Protección Social") 
         p.mb-0 El Centro Regulador de Urgencias y Emergencias (CRUE) Nacional se considera como la fuente oficial para generar alertas con el desabastecimiento de hemocomponentes.
       .py-4.py-md-5(titulo="Instituto Nacional de Salud")        
         p.mb-0 Responsable de monitorear el comportamiento de los bancos de sangre. Así mismo debe identificar la disponibilidad de hemocomponentes en los bancos de sangre priorizados para generar respuesta (por tamaño, o cercanía geográfica), a través del Sistema de información en Hemovigilancia Sihevi-INS©. También es el encargado de establecer los mecanismos de comunicación con los bancos de sangre que prestaran el apoyo requerido.
@@ -515,7 +515,7 @@
         | Las áreas que vayan a ser utilizadas para diligenciamiento de la encuesta, valoración clínica y entrevista deben cumplir con condiciones de privacidad, es decir, que sean individuales e independientes en donde el donante perciba un ambiente de confidencialidad. 
         br
         br
-        | Tener en cuenta las características de ventilación y control de temperatura adecuados en el que se va a ubicar el puesto móvil, <b> rango que estará entre 15 °C a 24°C, de acuerdo con el clima de la zona del país en donde se esté realizando la colecta de sangre,</b> para así controlar las condiciones de temperatura y evitar eventos adversos. Para el cumplimiento de dichos parámetros, dentro del equipamiento de la colecta móvil de sangre, se contará con dispositivos que permitan la regulación de la temperatura ambiente.
+        | Tener en cuenta las características de ventilación y control de temperatura adecuados en el que se va a ubicar el puesto móvil, <b> rango que estará entre 15 °C a 24 °C, de acuerdo con el clima de la zona del país en donde se esté realizando la colecta de sangre,</b> para así controlar las condiciones de temperatura y evitar eventos adversos. Para el cumplimiento de dichos parámetros, dentro del equipamiento de la colecta móvil de sangre, se contará con dispositivos que permitan la regulación de la temperatura ambiente.
       hr.my-5
 
       .h6 Sistema de Gestión de Calidad:          
@@ -555,7 +555,7 @@
       p Disponer de recursos y material lúdico para informar, sensibilizar y educar a los donantes de sangre, profundizando en conceptos que les permitan autoexcluirse al considerar que sus conductas de vida son de alto riesgo para transmitir infecciones a través de la sangre. 
         br
         br
-        | Para la extracción de sangre en climas clasificados como cálidos (temperatura superior a 23 °C) y templados (temperatura 15 °C y 23°C), <b> se debe disponer de dispositivos que regulen la temperatura ambiente en un rango entre 15 °C y 24 °C,</b> con el fin de disminuir el riesgo de Reacciones Adversas a la Donación (RAD).
+        | Para la extracción de sangre en climas clasificados como cálidos (temperatura superior a 23 °C) y templados (temperatura 15 °C y 23 °C), <b> se debe disponer de dispositivos que regulen la temperatura ambiente en un rango entre 15 °C y 24 °C,</b> con el fin de disminuir el riesgo de Reacciones Adversas a la Donación (RAD).
         
     
     .h6.mb-5 #[strong 03. Posteriormente a la jornada de donación]
@@ -593,7 +593,7 @@
         span.etiqueta--roja #[strong Información, sensibilización y educación:]
       p.mt-4 Proyectar mensajes dirigidos a la comunidad en donde se fundamente la importancia de la donación voluntaria y habitual de sangre, conductas de autocuidado, aclaración de mitos y motivación de autoexclusión como conducta solidaria.
       hr
-      p Evaluar la factibilidad de realizar proyectos educativos sobre la donación voluntaria y habitual de sangre de sangre, con aplicación especial en niños y jóvenes.
+      p Evaluar la factibilidad de realizar proyectos educativos sobre la donación voluntaria y habitual de sangre, con aplicación especial en niños y jóvenes.
       hr        
       p Programar recursos (incluye económicos y humanos) que permitan viabilizar la implementación de estrategias para informar, sensibilizar y educar sobre la donación voluntaria y habitual de sangre.
       hr
