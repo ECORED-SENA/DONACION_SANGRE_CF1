@@ -56,7 +56,7 @@
           .bloque-texto-b__texto.h5.mb-0 Persona que, previo cumplimiento de los requisitos señalados en este Decreto, da, sin retribución económica y a título gratuito y para fines preventivos, terapéuticos, de diagnóstico o de investigación, una porción de su sangre en forma voluntaria, libre y consciente.
           p.z-index Ministerio de Salud, 
             br
-            |2020, p.2
+            |1993, p.2
 
     p.mt-5 En concordancia, si una persona manifiesta su intención de donar sangre, solo cumple con esta definición cuando lo hace sin ningún tipo de presión o coacción, siendo consciente de que sus conductas de vida permitirán salvar o mejorar la calidad de vida de quienes requieren de una transfusión. Es por esto que #[strong el promotor de la donación de sangre es el directamente responsable de la calidad de la información que les brinda a los ciudadanos para que dicha definición se cumpla], de lo contrario estaría en contra de lo establecido en la normatividad, vulnerando la seguridad de los pacientes, entre los cuales se encuentran niños que apenas están comenzando a vivir. 
     
@@ -65,7 +65,7 @@
       .col-lg
         p.mb-4 Así mismo, este Decreto define a un #[strong banco de sangre] como:
         p.mb-4 #[strong "Todo establecimiento o dependencia con Licencia Sanitaria de Funcionamiento para adelantar actividades relacionadas con la obtención, procesamiento y almacenamiento de sangre humana destinada a la transfusión de la sangre total o en componentes separados, a procedimientos de aféresis y a otros procedimientos preventivos, terapéuticos y de investigación. Tiene como uno de sus propósitos asegurar la calidad de la sangre y sus derivados".]
-        p Ministerio de Salud, 2020, p. 1
+        p Ministerio de Salud, 1993, p. 1
       .col-lg-4
         figure
           img(src="@/assets/curso/images/pages/ilustraciones/img_2.png", alt="alt", style="width: 200px; display:block; margin:0 auto;")       
@@ -80,9 +80,9 @@
         .bloque-texto-b.p-5
           .bloque-texto-b__texto.h5.mb-0 La sangre humana solo podrá ser extraída y utilizada sin ánimo de lucro, con fines preventivos, terapéuticos, de diagnóstico en seres humanos o para investigaciones científicas.
           br
-          span.z-index Ministerio de Salud,<br> 2020, p. 3
+          span.z-index Ministerio de Salud,<br> 1993, p. 3
 
-    p.mt-4 El artículo 28 del Decreto 1571 de 1993, expresa que: <b>“Por ser la salud un bien de interés público, donar sangre es un deber de solidaridad social que tienen las personas y, por ningún motivo, podrá ser remunerado”</b> así mismo, se sentencia que <b>“el acto de donación sea consciente, expreso y voluntario por parte del donante”</b> (Ministerio de Salud, 2020, p. 10). Esto ratifica que, la sangre donada con fines transfusionales solo pueda estar enmarcada bajo aspectos de tipo social, voluntarios y altruistas. 
+    p.mt-4 El artículo 28 del Decreto 1571 de 1993, expresa que: <b>“Por ser la salud un bien de interés público, donar sangre es un deber de solidaridad social que tienen las personas y, por ningún motivo, podrá ser remunerado”</b> así mismo, se sentencia que <b>“el acto de donación sea consciente, expreso y voluntario por parte del donante”</b> (Ministerio de Salud, 1993, p. 10). Esto ratifica que, la sangre donada con fines transfusionales solo pueda estar enmarcada bajo aspectos de tipo social, voluntarios y altruistas. 
     
     .cajon.cajon--gris.p-4.mb-5.mb-lg-0.mt-5    
       p.mb-0 Por lo tanto, quienes ejerzan funciones de promoción de la donación de sangre, deben informar adecuadamente a las personas, <b>utilizando mensajes claros, precisos, basados en conceptos técnicos que conlleven a la seguridad transfusional,</b> y que estos se den en ambientes que les permita tomar una decisión voluntaria, consciente, madura y responsable sobre el acto de donar.
@@ -90,7 +90,7 @@
     #t_1_2.h4.mt-5 1.2 Resolución 0901 de 1996
     .titulo-segundo
 
-    p.mt-3 El Manual de normas técnicas, administrativas y de procedimientos en bancos de sangre, ha sido publicado a través de la Resolución 0901 de 1996 (Ministerio de Salud, 2020). Tiene como objetivos específicos,<b> proteger tanto a los donantes como a los receptores de sangre, crear y mantener la garantía de la calidad de la sangre y sus hemocomponentes.</b>
+    p.mt-3 El Manual de normas técnicas, administrativas y de procedimientos en bancos de sangre, ha sido publicado a través de la Resolución 0901 de 1996 (Ministerio de Salud, 1996). Tiene como objetivos específicos,<b> proteger tanto a los donantes como a los receptores de sangre, crear y mantener la garantía de la calidad de la sangre y sus hemocomponentes.</b>
 
     .row.justify-content-center.align-items-center.mt-4
       .col-auto.me-5
@@ -111,7 +111,7 @@
           .h5.mb-0 Se debe advertir al donante sobre los eventuales riesgos inherentes a la extracción de sangre.
         .col-lg-7
           .bloque-texto-a__texto.p-4
-            p Todos los donantes potenciales deben recibir materiales educativos y tener la posibilidad de leer carteles o mensajes, referentes a los riesgos de enfermedades transmisibles por transfusión, con el fin de <b>darles la opción de autoexcluirse de donar o de evitar que la unidad recolectada sea utilizada con fines transfusionales (Ministerio de Salud, 2020, p. 10).</b>
+            p Todos los donantes potenciales deben recibir materiales educativos y tener la posibilidad de leer carteles o mensajes, referentes a los riesgos de enfermedades transmisibles por transfusión, con el fin de <b>darles la opción de autoexcluirse de donar o de evitar que la unidad recolectada sea utilizada con fines transfusionales (Ministerio de Salud, 1996, p. 10).</b>
 
     p.my-5 Por ello es responsabilidad de los bancos de sangre <b> contar con la logística y herramientas necesarias para que los donantes potenciales sean bien informados,</b> y que la invitación a donar no esté solo centrada en la edad y peso mínimo requerido, puesto que para cumplir el objetivo de reducir el riesgo transfusional se debe ir más allá, es decir, abordar aspectos relacionados con las conductas de vida que conllevarían a que una persona tenga una alta probabilidad de estar infectada y que si acude a donar, podría estar transmitiendo dichas infecciones a otros que apenas están empezando a vivir o que tienen todas sus esperanzas de vida en la transfusión. <b>Es fundamental que el promotor conozca, sepa explicar y le dé a conocer a cada donante abordado, el concepto de ventana inmunológica.</b>
 
@@ -142,7 +142,7 @@
     
     .h5.mt-5 1.3.1. Circular 001 de 2006          
 
-    p.mb-4 Debido a que la donación de sangre se debe realizar bajo condiciones de tipo social, voluntaria y no remunerada, #[strong la Circular 001 de 2006 emitida por el Instituto Nacional de Salud], le ratifica a los actores de la red lo expresado en el Decreto 1571 de 1993 y la Resolución 0901 de 1996, enunciando que la donación de sangre se debe dar bajo acciones sociales, que #[strong dicha decisión debe ser libre, consciente y no coaccionada (INS, 2020).]
+    p.mb-4 Debido a que la donación de sangre se debe realizar bajo condiciones de tipo social, voluntaria y no remunerada, #[strong la Circular 001 de 2006 emitida por el Instituto Nacional de Salud], le ratifica a los actores de la red lo expresado en el Decreto 1571 de 1993 y la Resolución 0901 de 1996, enunciando que la donación de sangre se debe dar bajo acciones sociales, y basada en estrategias de información, sensibilización y educación.  
 
     .row.justify-content-center.align-items-center.mb-5
       .col-auto     
@@ -150,10 +150,10 @@
           img(src="@/assets/curso/images/pages/ilustraciones/img_5.png", alt="alt", style="width:1500px;")        
 
     .cajon.cajon--gris.p-4.mb-4         
-      p Además, manifiesta que <b> la donación coaccionada o de reposición, va en contra de la cultura de la donación </b> y, por lo tanto, no se debe ofrecer nada a cambio, como por ejemplo, el presionar o exigir donantes a los familiares y amigos de los pacientes para la prestación de servicios de salud (INS, 2020).
+      p Además, manifiesta que la donación coaccionada o de reposición, va en contra de la cultura de la donación, y por lo tanto, no se debe ofrecer nada a cambio, como por ejemplo, el presionar o exigir donantes a los familiares y amigos de los pacientes para la prestación de servicios de salud.  
       
 
-    p.mt-3 Así mismo, esta circular aclara que el carné de donante de sangre <b> no es un seguro para poder acceder a obtener gratuitamente hemocomponentes en caso de que sean requeridos por el donante o alguno de sus familiares;</b> se concibe como el soporte que evidencia que dicha persona es solidaria, además tiene como propósito recordarle la fecha de la próxima donación. Finalmente, se puntualiza que <b> se deben adoptar medidas para que las personas no sigan concibiendo la donación como la obtención de un beneficio tangible</b> (INS, 2020).
+    p.mt-3 Así mismo, esta circular aclara que el carné de donante de sangre <b> no es un seguro para poder acceder a obtener gratuitamente hemocomponentes en caso de que sean requeridos por el donante o alguno de sus familiares;</b> se concibe como el soporte que evidencia que dicha persona es solidaria, además tiene como propósito recordarle la fecha de la próxima donación. Finalmente, se puntualiza que <b> se deben adoptar medidas para que las personas no sigan concibiendo la donación como la obtención de un beneficio tangible.</b>
 
     .h5.mt-5 Circular 054 de 2014
 
@@ -618,7 +618,7 @@
 
     .h5.mt-5 Notificación de tres casos de infección transmitida por transfusión - VIH
 
-    p.mb-4 En el boletín del INS (2020) se da a conocer un caso de hemovigilancia presentado, y en el cual se infectaron de VIH a tres pacientes menores de edad, a través de la transfusión de sangre, cuya unidad fue donada por un donante habitual.
+    p.mb-4 En el boletín del INS (2019) se da a conocer un caso de hemovigilancia presentado, y en el cual se infectaron de VIH a tres pacientes menores de edad, a través de la transfusión de sangre, cuya unidad fue donada por un donante habitual.
 
     .row.mb-5
       .col-12.col-lg
@@ -639,7 +639,7 @@
       p.mb-0 Posterior al análisis de este caso, se pudo concluir que hay evidencia de <b> tres (3) infecciones transmitidas por transfusión de VIH, a partir de un donante que pudo ser aceptado en periodo de ventana inmunológica.</b>
 
     .titulo-segundo
-      #t_1_6.h4 1.6 Estándares de trabajo para servicios de sangre (OPS, 2020)      
+      #t_1_6.h4 1.6 Estándares de trabajo para servicios de sangre (OPS, 2012)      
 
     p.mt-2 Al ser los bancos de sangre miembros esenciales del sistema de salud, estos deben realizar su labor con calidad, conllevando a disminuir la posibilidad de que se presenten errores. 
     br

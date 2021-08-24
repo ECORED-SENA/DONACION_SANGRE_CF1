@@ -116,7 +116,7 @@ export default {
       {
         nombre: 'Magda Juliana Rodríguez Rodríguez',
         cargo: 'Experta temática',
-        centro: 'Red Nacional Bancos de Sangre y Servicio de Transfusión.',
+        centro: 'Red Nacional Bancos de Sangre y Servicios de Transfusión.',
       },
       {
         nombre: 'Maryuri Agudelo Franco',
