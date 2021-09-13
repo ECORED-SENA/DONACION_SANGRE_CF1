@@ -120,7 +120,7 @@ export default {
       },
       {
         nombre: 'Mauricio Hernán Bonilla Contreras',
-        cargo: 'Experta temático',
+        cargo: 'Experto temático',
         centro: 'Red Nacional Bancos de Sangre y Servicios de Transfusión.',
       },
       {
