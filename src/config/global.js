@@ -119,6 +119,16 @@ export default {
         centro: 'Red Nacional Bancos de Sangre y Servicios de Transfusión.',
       },
       {
+        nombre: 'Mauricio Hernán Bonilla Contreras',
+        cargo: 'Experta temático',
+        centro: 'Red Nacional Bancos de Sangre y Servicios de Transfusión.',
+      },
+      {
+        nombre: 'Olga Maritza Berrio Pérez',
+        cargo: 'Experta temática',
+        centro: 'Red Nacional Bancos de Sangre y Servicios de Transfusión.',
+      },
+      {
         nombre: 'Maryuri Agudelo Franco',
         cargo: 'Diseñadora Instruccional',
         centro: 'Centro de Diseño y Metrología',
