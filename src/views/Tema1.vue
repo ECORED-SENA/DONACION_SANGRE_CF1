@@ -98,7 +98,7 @@
         span.etiqueta--roja.mb-4 <b>“Donar sangre es un deber y un #[br]derecho de la solidaridad social que #[br] tienen las personas”</b> 
         br
         br       
-        p (Ministerio de Salud, 2020, p. 10).
+        p (Ministerio de Salud, 1996, p. 10).
       .col-auto 
         img.img-a.my-3(src="@/assets/curso/images/pages/ilustraciones/img_3.png").img-fluid
 
@@ -626,7 +626,7 @@
           <b>El promotor siempre debe enfatizar en el tipo de información que se le manifiesta a las personas </b>
           span.etiqueta--green previamente a que realicen la donación.
       .col-12.col-lg-8
-        p.mt-2 Debido a que el donante de sangre habitual ha sido considerado como uno de los de menor riesgo de infección,<b> este tipo de casos ponen en evidencia que el promotor siempre debe enfatizar en el tipo de información que se le manifiesta a las personas previamente a que realicen la donación,</b> no se puede olvidar que el ser informado adecuadamente es un derecho que tienen las personas, así como la decisión que tomen posteriormente al haberse enterado de los aspectos relacionados con la donación de sangre (INS, 2020).
+        p.mt-2 Debido a que el donante de sangre habitual ha sido considerado como uno de los de menor riesgo de infección,<b> este tipo de casos ponen en evidencia que el promotor siempre debe enfatizar en el tipo de información que se le manifiesta a las personas previamente a que realicen la donación,</b> no se puede olvidar que el ser informado adecuadamente es un derecho que tienen las personas, así como la decisión que tomen posteriormente al haberse enterado de los aspectos relacionados con la donación de sangre (INS, 2019).
 
     .row.mb-5
       .col-auto
