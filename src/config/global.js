@@ -190,70 +190,70 @@ export default {
   referencias: [
     {
       referencia:
-        'Instituto Nacional de Salud. (2020). Circular 003 de 2015. Recomendaciones para afrontar la insuficiencia de glóbulos rojos y plaquetas en la época decembrina y post decembrina: ',
+        'Instituto Nacional de Salud. (2015). Circular 003 de 2015. Recomendaciones para afrontar la insuficiencia de glóbulos rojos y plaquetas en la época decembrina y post decembrina: ',
       link: 'https://www.ins.gov.co/BibliotecaDigital/Circular-003-de-2015.pdf',
     },
     {
       referencia:
-        'Instituto Nacional de Salud – INS. (2020). Boletín técnico. Promoción de la donación voluntaria y habitual de sangre como impacto en la seguridad transfusional de 2011.',
+        'Instituto Nacional de Salud – INS. (2011). Boletín técnico. Promoción de la donación voluntaria y habitual de sangre como impacto en la seguridad transfusional de 2011.',
       link:
         'https://www.ins.gov.co/BibliotecaDigital/promocion-donacion-sangre-como-impacto-en-seguridad-transfusional.pdf',
     },
     {
       referencia:
-        'Instituto Nacional de Salud – INS. (2020). Boletín técnico. Mecanismos de respuesta de la Red Nacional de Bancos de Sangre y Servicios de Transfusión ante situaciones de riesgo de desastre, emergencia y desastre en Colombia de 2019',
+        'Instituto Nacional de Salud – INS. (2019). Boletín técnico. Mecanismos de respuesta de la Red Nacional de Bancos de Sangre y Servicios de Transfusión ante situaciones de riesgo de desastre, emergencia y desastre en Colombia de 2019',
       link:
         'https://www.ins.gov.co/BibliotecaDigital/mecanismos-de-respuesta-red-bancos-de-sangre-y-servicios-de-transfusion-ante-situaciones-de-emergencia.pdf',
     },
     {
       referencia:
-        'Instituto Nacional de Salud – INS. (2020). Boletín técnico. Colecta de sangre en puestos móviles.',
+        'Instituto Nacional de Salud – INS. (2019). Boletín técnico. Colecta de sangre en puestos móviles.',
       link:
         'https://www.ins.gov.co/BibliotecaDigital/colecta-de-sangre-en-puestos-moviles.pdf',
     },
     {
       referencia:
-        'Instituto Nacional de Salud – INS. (2020). Boletín técnico. Estrategias asociadas a promoción de la donación de sangre de 2018. ',
+        'Instituto Nacional de Salud – INS. (2018). Boletín técnico. Estrategias asociadas a promoción de la donación de sangre de 2018. ',
       link:
         'https://www.ins.gov.co/BibliotecaDigital/estrategias-asociadas-a-promocion-de-la-donacion-de-sangre.pdf',
     },
     {
       referencia:
-        'Instituto Nacional de Salud – INS. (2020). Boletín técnico. Notificación de tres casos de infección transmitida por transfusión (ITT) - Virus de Inmunodeficiencia Humana (VIH) de 2019.',
+        'Instituto Nacional de Salud – INS. (2019). Boletín técnico. Notificación de tres casos de infección transmitida por transfusión (ITT) - Virus de Inmunodeficiencia Humana (VIH) de 2019.',
       link:
         'https://www.ins.gov.co/BibliotecaDigital/notificacion-casos-infeccion-transmitida-por-transfusion-virus-inmunodeficiencia-humana.pdf',
     },
     {
       referencia:
-        'Instituto Nacional de Salud – INS. (2020). Boletín técnico. Resumen casos de donación coaccionada 2016.',
+        'Instituto Nacional de Salud – INS. (2016). Boletín técnico. Resumen casos de donación coaccionada 2016.',
       link:
         'https://www.ins.gov.co/BibliotecaDigital/resumen-casos-donacion-coaccionada-2016.pdf',
     },
     {
       referencia:
-        'Instituto Nacional de Salud – INS. (2020). Circular 001 de 2006. Donación voluntaria y altruista de sangre',
+        'Instituto Nacional de Salud – INS. (2006). Circular 001 de 2006. Donación voluntaria y altruista de sangre',
       link: 'https://www.ins.gov.co/BibliotecaDigital/Circular-001-de-2006.pdf',
     },
     {
       referencia:
-        'Instituto Nacional de Salud – INS. (2020). Lineamiento Promoción de la donación de sangre y componentes anatómicos de 2019.',
+        'Instituto Nacional de Salud – INS. (2019). Lineamiento Promoción de la donación de sangre y componentes anatómicos de 2019.',
       link:
         'https://www.ins.gov.co/BibliotecaDigital/promocion-donacion-sangre-y-componentes-anatomicos.pdf',
     },
     {
       referencia:
-        'Instituto Nacional de Salud – INS. (2020). Lineamiento Selección de donantes de sangre de 2018. ',
+        'Instituto Nacional de Salud – INS. (2018). Lineamiento Selección de donantes de sangre de 2018. ',
       link:
         'https://www.ins.gov.co/BibliotecaDigital/seleccion-donantes-2018.pdf',
     },
     {
       referencia:
-        'Ministerio de Salud (2020, 25 de noviembre). Decreto 1571 de 1993. Por el cual se reglamenta parcialmente el título IX de la Ley 09 de 1979, en cuanto a funcionamiento de establecimientos dedicados a la extracción, procesamiento, conservación y transporte de sangre total o de sus hemoderivados, se crean la red nacional de bancos de sangre y el consejo nacional de bancos de sangre y se dictan otras disposiciones sobre la materia',
+        'Ministerio de Salud (1993). Decreto 1571 de 1993. Por el cual se reglamenta parcialmente el título IX de la Ley 09 de 1979, en cuanto a funcionamiento de establecimientos dedicados a la extracción, procesamiento, conservación y transporte de sangre total o de sus hemoderivados, se crean la red nacional de bancos de sangre y el consejo nacional de bancos de sangre y se dictan otras disposiciones sobre la materia',
       link: 'https://www.ins.gov.co/BibliotecaDigital/Decreto-1571-de-1993.pdf',
     },
     {
       referencia:
-        'Ministerio de Salud. (2020). Resolución 0901 de 1996. Manual de normas técnicas, administrativas y de procedimientos en bancos de sangre.',
+        'Ministerio de Salud. (1996). Resolución 0901 de 1996. Manual de normas técnicas, administrativas y de procedimientos en bancos de sangre.',
       link:
         'https://www.ins.gov.co/BibliotecaDigital/Resolucion-0901-de-1996.pdf',
     },
