@@ -140,7 +140,7 @@
     p.mt-5 Con el fin de fortalecer los aspectos relacionados con la promoción de la donación, el <b>Instituto Nacional de Salud ha emitido algunas circulares en las cuales se involucran algunas consideraciones que tienen que ver con la captación de los donantes de sangre.</b> El origen de cada uno de estos documentos radica en las necesidades evidenciadas en la práctica. A continuación, se revisarán algunas circulares que son de interés para el tema objeto del presente curso.
 
     
-    .h5.mt-5 1.3.1. Circular 001 de 2006          
+    .h5.mt-5 Circular 001 de 2006          
 
     p.mb-4 Debido a que la donación de sangre se debe realizar bajo condiciones de tipo social, voluntaria y no remunerada, #[strong la Circular 001 de 2006 emitida por el Instituto Nacional de Salud], le ratifica a los actores de la red lo expresado en el Decreto 1571 de 1993 y la Resolución 0901 de 1996, enunciando que la donación de sangre se debe dar bajo acciones sociales, y basada en estrategias de información, sensibilización y educación.  
 
