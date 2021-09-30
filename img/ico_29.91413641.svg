@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61" height="61" viewBox="0 0 61 61">
+  <g id="Grupo_25928" data-name="Grupo 25928" transform="translate(-2121 -4844)">
+    <rect id="Rectángulo_5224" data-name="Rectángulo 5224" width="61" height="61" transform="translate(2121 4844)" fill="none"/>
+    <rect id="Rectángulo_5225" data-name="Rectángulo 5225" width="49" height="49" transform="translate(2127 4850)" fill="none"/>
+    <g id="Grupo_25919" data-name="Grupo 25919" transform="translate(1685.773 4740.431)">
+      <path id="Trazado_54298" data-name="Trazado 54298" d="M465.721,109.569c-6.125,6.305-18.83,20.738-18.83,29.525a18.83,18.83,0,1,0,37.659,0c0-8.786-12.7-23.22-18.83-29.525Zm0,45.5a15.994,15.994,0,0,1-15.977-15.977c0-7.162,11.051-20.1,15.978-25.4,4.935,5.31,15.977,18.254,15.977,25.4a16,16,0,0,1-15.978,15.977Z" fill="#111e61"/>
+      <path id="Trazado_54299" data-name="Trazado 54299" d="M458.382,128.185a5,5,0,0,0-4.992,4.993v9.271h2.853V138.17h4.279v4.279h2.853v-9.271A5,5,0,0,0,458.382,128.185Zm-2.139,7.132v-2.139a2.139,2.139,0,1,1,4.279,0v2.139Z" transform="translate(0.921 2.637)" fill="#111e61"/>
+      <path id="Trazado_54300" data-name="Trazado 54300" d="M474.618,132.464a4.283,4.283,0,0,0-4.279-4.279h-5.7v14.264h5.7a4.277,4.277,0,0,0,3.186-7.132A4.262,4.262,0,0,0,474.618,132.464Zm-7.131-1.426h2.852a1.427,1.427,0,1,1,0,2.853h-2.852Zm2.852,8.558h-2.852v-2.853h2.852a1.427,1.427,0,1,1,0,2.853Z" transform="translate(2.514 2.637)" fill="#111e61"/>
+    </g>
+  </g>
+</svg>
