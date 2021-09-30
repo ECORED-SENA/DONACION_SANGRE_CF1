@@ -114,6 +114,9 @@ export default {
         regional: 'Regional Santander',
       },
       {
+        nombre: 'Instituto Nacional de Salud',
+      },
+      {
         nombre: 'Magda Juliana Rodríguez Rodríguez',
         cargo: 'Experta temática',
         centro: 'Red Nacional Bancos de Sangre y Servicios de Transfusión.',
